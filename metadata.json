@@ -1,0 +1,6 @@
+{
+  "name": "AI maths buddy",
+  "description": "An AI-powered math tutor that helps students understand tough math concepts by solving problems from text or screenshots, providing step-by-step explanations, and suggesting practice questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
